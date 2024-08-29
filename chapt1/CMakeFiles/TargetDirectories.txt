@@ -1,0 +1,3 @@
+/home/daydreamerest/chapt1/CMakeFiles/learn_cmake.dir
+/home/daydreamerest/chapt1/CMakeFiles/edit_cache.dir
+/home/daydreamerest/chapt1/CMakeFiles/rebuild_cache.dir
